@@ -5,9 +5,10 @@ Moving my app into another AWS Account in this multiplayer project! ✌️
 * 🔗 [**NextWork Community Post**](https://community.nextwork.org/c/celebrations/just-deployed-a-docker-app-across-2-different-aws-accounts-using-ecr)
 * 🔗 [**Blog Post**](https://dev.to/suvrajeet/epic-adventure-deploy-your-app-across-aws-accounts-with-docker-ecr-m4j)
 * 🔗 [**Documentation**](https://mega.nz/file/f65kDLoa#qbhIYhMshUb8i5NC5ViAAoR9mbQvWfy26Kz3VrWyIGs)
+* 🔗 [**X-Post**](https://x.com/_suvrajeet_/status/1954960494013608002) 
 
   
-<!--*   ⏩  *Comming very Soon this Month* -->
+**Repo Readme** ⏩  *Comming very Soon this Month* 
 
 <!-- Tomorrow dated 11.08.25* -->
 <!-- 
